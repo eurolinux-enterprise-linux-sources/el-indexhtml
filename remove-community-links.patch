@@ -1,0 +1,1891 @@
+diff --git a/src/HTML/as-IN/index.html b/src/HTML/as-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/as-IN/index.html
++++ b/src/HTML/as-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/bn-IN/index.html b/src/HTML/bn-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/bn-IN/index.html
++++ b/src/HTML/bn-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/de-DE/index.html b/src/HTML/de-DE/index.html
+index e323136..cafec90 100644
+--- a/src/HTML/de-DE/index.html
++++ b/src/HTML/de-DE/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Willkommen zu EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Willkommen zu EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,37 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Willkommen zu EuroLinux 7</h1>
+-
+-    <p>EuroLinux 7 ist ein stabiles Betriebssystem und kann in praktisch allen Anwendungsbereichen eingesetzt werden. Als Desktop, Server, Teilchenbeschleuniger oder Cloud. EL7 vereinigt die besten und innovativsten Open-Source-Technologien zu einem System, dass genau auf Deine Bed&uuml;rfnisse zugeschnitten ist.
+-    </p>
+-
+-    <ul>
+-      <li style="list-style: none; display: inline">
+-        <h2>Was jetzt?</h2>
+-      </li>
+-
+-            <li><strong>Dokumentation, Release-Notes und weitere Informationen</strong> &uuml;ber EuroLinux 7 findest Du auf der <a href="http://www.euro-linux.com/" target="_blank">EuroLinux Web-Site</a>.</li>
+-                    <li><strong>Community-Support und Security-Updates (Eratta) </strong>findest Du auf der <a href="http://www.euro-linux.com/community/" target="_blank">Mailing-Liste</a> (Posten erfordert eine Subscription).</li>
+-
+-    </ul>
++   <h1>
++    Willkommen zu EuroLinux 7
++   </h1>
++   <p>
++    EuroLinux 7 ist ein stabiles Betriebssystem und kann in praktisch allen Anwendungsbereichen eingesetzt werden. Als Desktop, Server, Teilchenbeschleuniger oder Cloud. EL7 vereinigt die besten und innovativsten Open-Source-Technologien zu einem System, dass genau auf Deine Bedürfnisse zugeschnitten ist.
++   </p>
++   <ul>
++    <li style="list-style: none; display: inline">
++     <h2>
++      Was jetzt?
++     </h2>
++    </li>
++    <li>
++     <strong>
++      Dokumentation, Release-Notes und weitere Informationen
++     </strong>
++     über EuroLinux 7 findest Du auf der
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux Web-Site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/en-US/index.html b/src/HTML/en-US/index.html
+index b2938fc..8277838 100644
+--- a/src/HTML/en-US/index.html
++++ b/src/HTML/en-US/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,35 +65,44 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro" class="lang-en">
++ </head>
++ <body class="lang-en" id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <p>EuroLinux 7 has a robust architecture that can scale
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <p>
++    EuroLinux 7 has a robust architecture that can scale
+     to suit almost any role, anywhere. From a desktop workstation,
+     to a server, a particle accelerator, or even the cloud, EL7
+     brings together the best and brightest open source technologies
+-    to produce a platform built for your needs.</p>
+-
+-    <ul>
+-      <li style="list-style: none; display: inline">
+-        <h2>Now what?</h2>
+-      </li>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++    to produce a platform built for your needs.
++   </p>
++   <ul>
++    <li style="list-style: none; display: inline">
++     <h2>
++      Now what?
++     </h2>
++    </li>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/es-ES/index.html b/src/HTML/es-ES/index.html
+index d66db5c..8dd0426 100644
+--- a/src/HTML/es-ES/index.html
++++ b/src/HTML/es-ES/index.html
+@@ -1,10 +1,12 @@
+ <!DOCTYPE HTML>
+ <html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Bienvenido a EuroLinux 7</title>
+-	<style type="text/css">
+-	body {
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Bienvenido a EuroLinux 7
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -59,18 +61,33 @@
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+ 	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-es"> 
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>Bienvenido a EuroLinux 7</h1>
+-<p>EuroLinux 7 tiene una arquitectura robusta que puede escalar a satisfacer casi cualquier función, en cualquier lugar. Desde una estación de trabajo, un servidor, un acelerador de partículas, o hasta la nube, EL7 une la mejor y más brillante tecnología de código abierto para producir una plataforma creada para tus necesidades.</p> 
+-<ul>
+-	<h2>¿Ahora qué?</h2>
+-	<li>Para acceder documentación, notas de la liberación, y otra información para la serie 7 de EuroLinux, visita la <a href="http://www.euro-linux.com/" target="_blank">página web de EuroLinux</a>.</li>
+-	<li>Para <strong>soporte proveído por la comunidad y anuncios de seguridad</strong>, subscríbete a nuestras <a href="http://www.euro-linux.com/community/" target="_blank">Listas de Correo.</a></li>
+-</ul>
+-</div>
+-</body>
++  </style>
++ </head>
++ <body class="lang-es" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      Bienvenido a EuroLinux 7
++     </h1>
++     <p>
++      EuroLinux 7 tiene una arquitectura robusta que puede escalar a satisfacer casi cualquier función, en cualquier lugar. Desde una estación de trabajo, un servidor, un acelerador de partículas, o hasta la nube, EL7 une la mejor y más brillante tecnología de código abierto para producir una plataforma creada para tus necesidades.
++     </p>
++     <ul>
++      <h2>
++       ¿Ahora qué?
++      </h2>
++      <li>
++       Para acceder documentación, notas de la liberación, y otra información para la serie 7 de EuroLinux, visita la
++       <a href="http://www.euro-linux.com/" target="_blank">
++        página web de EuroLinux
++       </a>
++       .
++      </li>
++     </ul>
++    </div>
++   </a>
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/fr-FR/index.html b/src/HTML/fr-FR/index.html
+index f0c86c2..ff131bb 100644
+--- a/src/HTML/fr-FR/index.html
++++ b/src/HTML/fr-FR/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Bienvenue dans EuroLinux 7</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Bienvenue dans EuroLinux 7
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,30 +60,41 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-en"> 
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>Bienvenue dans EuroLinux 7</h1>
+-<p>EuroLinux 7 a une architecture robuste qui peut évoluer pour
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      Bienvenue dans EuroLinux 7
++     </h1>
++     <p>
++      EuroLinux 7 a une architecture robuste qui peut évoluer pour
+ répondre à n'importe quel rôle, n'importe où. D'un poste de bureau à
+ un serveur, un accélérateur de particules, ou même dans le cloud, EL7
+ réunit les meilleurs et les plus brillantes des technologies
+ "opensource" pour produire une plate-forme construite pour vos
+-besoins.
+-</p> 
+-<ul>
+-	<h2>Et maintenant ?</h2>
+-	<li>Pour accéder à la documentation, les notes spécifiques et d'autres 
+-	informations concernant <a href="http://www.euro-linux.com/" target="_blank">EuroLinux 7, 
+-	visitez le site web</a>.</li>
+-	<li>EuroLinux. Pour le soutien du part de la communauté et 
+-	les annonces des corrections et de sécurité, 
+-	<a href="http://www.euro-linux.com/community/" target="_blank">abonnez-vous
+-	à nos listes de diffusion.</a></li>
+-</ul>
+-</div>
+-</body>
+-</html>
++besoins.
++     </p>
++     <ul>
++      <h2>
++       Et maintenant ?
++      </h2>
++      <li>
++       Pour accéder à la documentation, les notes spécifiques et d'autres 
++	informations concernant
++       <a href="http://www.euro-linux.com/" target="_blank">
++        EuroLinux 7, 
++	visitez le site web
++       </a>
++       .
++      </li>
++     </ul>
++    </div>
++   </a>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/gu-IN/index.html b/src/HTML/gu-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/gu-IN/index.html
++++ b/src/HTML/gu-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/hi-IN/index.html b/src/HTML/hi-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/hi-IN/index.html
++++ b/src/HTML/hi-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/hu-HU/index.html b/src/HTML/hu-HU/index.html
+index a61f020..06e9f18 100644
+--- a/src/HTML/hu-HU/index.html
++++ b/src/HTML/hu-HU/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Üdvözli a EuroLinux 7</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Üdvözli a EuroLinux 7
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,19 +60,38 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-hu">
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>Üdvözli a EuroLinux 7</h1>
+-<p>A EuroLinux 7 megbízható architektúrával rendelkezik és jól skálázódik, hogy bárhol, bármilyen szerepnek megfelelhessen. Az EL7 a legjobb nyílt forrású technológiákat egyesíti, hogy az igényei szerinti platformot hozhassa létre az asztali munkaállomástól a kiszolgálón át a részecskegyorsítóig, vagy akár a felhőig.</p>
+-<ul>
+-	<h2>Hogyan tovább?</h2>
+-	<li>A EuroLinux 7 <strong>dokumentációjához, kiadási megjegyzéseihez és egyéb információkhoz</strong> látogassa meg a <a href="http://www.euro-linux.com/" target="_blank">EuroLinux weboldalát</a>.</li>
+-	<li><strong>Közösségi támogatáshoz és biztonsági bejelentésekhez</strong> iratkozzon fel <a href="http://www.euro-linux.com/community/" target="_blank">levelezőlistáinkra</a>.</li>
+-</ul>
+-</div>
+-</body>
+-</html>
++	}
++  </style>
++ </head>
++ <body class="lang-hu" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      Üdvözli a EuroLinux 7
++     </h1>
++     <p>
++      A EuroLinux 7 megbízható architektúrával rendelkezik és jól skálázódik, hogy bárhol, bármilyen szerepnek megfelelhessen. Az EL7 a legjobb nyílt forrású technológiákat egyesíti, hogy az igényei szerinti platformot hozhassa létre az asztali munkaállomástól a kiszolgálón át a részecskegyorsítóig, vagy akár a felhőig.
++     </p>
++     <ul>
++      <h2>
++       Hogyan tovább?
++      </h2>
++      <li>
++       A EuroLinux 7
++       <strong>
++        dokumentációjához, kiadási megjegyzéseihez és egyéb információkhoz
++       </strong>
++       látogassa meg a
++       <a href="http://www.euro-linux.com/" target="_blank">
++        EuroLinux weboldalát
++       </a>
++       .
++      </li>
++     </ul>
++    </div>
++   </a>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/index.html b/src/HTML/index.html
+index 7b57ab0..9c0c2a9 100644
+--- a/src/HTML/index.html
++++ b/src/HTML/index.html
+@@ -1,9 +1,11 @@
+ <html>
+-<head>
+-<title>EuroLinux</title>
+-<body>
+-<script type="text/javascript">
+-	var lang = window.navigator.language;
++ <head>
++  <title>
++   EuroLinux
++  </title>
++  <body>
++   <script type="text/javascript">
++    var lang = window.navigator.language;
+ 	var match = 0;
+ 	var locales = ["as-IN", "bn-IN", "de-DE", "es-ES", "fr-FR", "gu-IN", "hi-IN", "hu-HU", "it-IT", "ja-JP", "ko-KR", "ml-IN", "mr-IN", "or-IN", "pa-IN", "pt-BR", "ru-RU", "si-LK", "sv-SE", "ta-IN", "te-IN", "zh-CN", "zh-TW"];
+ 
+@@ -41,6 +43,7 @@
+ 	}
+ 
+ 	window.location = lang + "/index.html";
+-</script>
+-</body>
++   </script>
++  </body>
++ </head>
+ </html>
+diff --git a/src/HTML/it-IT/index.html b/src/HTML/it-IT/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/it-IT/index.html
++++ b/src/HTML/it-IT/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/ja-JP/index.html b/src/HTML/ja-JP/index.html
+index dc920dd..fa84d32 100644
+--- a/src/HTML/ja-JP/index.html
++++ b/src/HTML/ja-JP/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>EuroLinux 7 へようこそ </title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   EuroLinux 7 へようこそ
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,23 +60,48 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-en"> 
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>EuroLinux 7 へようこそ</h1>
+-<p>EuroLinux 7 は、堅固なアーキテクチャを備えており、あらゆる分野で、<WBR>ほとんど全ての用途に適合させることができます。
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      EuroLinux 7 へようこそ
++     </h1>
++     <p>
++      EuroLinux 7 は、堅固なアーキテクチャを備えており、あらゆる分野で、
++      <wbr/>
++      ほとんど全ての用途に適合させることができます。
+ EL7
+-は、あなたのニーズ（<WBR>デスクトップワークステーションからサーバ、粒子加速器、<WBR>さらにはクラウドまで）<WBR>に合ったプラットフォームを提供するため、最高・<WBR>最良のオープンソーステクノロジーを集めています。 </p> 
+-<ul>
+-	<h2>次は？</h2>
+-	<li><a href="http://www.euro-linux.com/" target="_blank">Scientic Linux の webサイト</a> を訪問すれば、EuroLinux 7 
+-	シリーズのためのドキュメントやリリースノート、<WBR>その他の情報にアクセスすることができます。 
+-	</li>
+-	<li>また、わたしたちの<a href="http://www.euro-linux.com/community/" target="_blank">メーリングリスト</a> に登録すれば、<WBR>コミュニティ提供のサポートやセキュリティ上の修正のアナウンス<WBR>を得ることができます。 </li>
+-</ul>
+-</div>
+-</body>
+-</html>
++は、あなたのニーズ（
++      <wbr/>
++      デスクトップワークステーションからサーバ、粒子加速器、
++      <wbr/>
++      さらにはクラウドまで）
++      <wbr/>
++      に合ったプラットフォームを提供するため、最高・
++      <wbr/>
++      最良のオープンソーステクノロジーを集めています。
++     </p>
++     <ul>
++      <h2>
++       次は？
++      </h2>
++      <li>
++       <a href="http://www.euro-linux.com/" target="_blank">
++        Scientic Linux の webサイト
++       </a>
++       を訪問すれば、EuroLinux 7 
++	シリーズのためのドキュメントやリリースノート、
++       <wbr/>
++       その他の情報にアクセスすることができます。
++      </li>
++     </ul>
++    </div>
++   </a>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/ko-KR/index.html b/src/HTML/ko-KR/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/ko-KR/index.html
++++ b/src/HTML/ko-KR/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/ml-IN/index.html b/src/HTML/ml-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/ml-IN/index.html
++++ b/src/HTML/ml-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/mr-IN/index.html b/src/HTML/mr-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/mr-IN/index.html
++++ b/src/HTML/mr-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/or-IN/index.html b/src/HTML/or-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/or-IN/index.html
++++ b/src/HTML/or-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/pa-IN/index.html b/src/HTML/pa-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/pa-IN/index.html
++++ b/src/HTML/pa-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/pt-BR/index.html b/src/HTML/pt-BR/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/pt-BR/index.html
++++ b/src/HTML/pt-BR/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/ru-RU/index.html b/src/HTML/ru-RU/index.html
+index 090a5ec..3ce81ea 100644
+--- a/src/HTML/ru-RU/index.html
++++ b/src/HTML/ru-RU/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>EuroLinux 7 -- добро пожаловать!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   EuroLinux 7 -- добро пожаловать!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,19 +60,38 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-ru"> 
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>EuroLinux 7&nbsp;&mdash; добро пожаловать!</h1>
+-<p>Надежная архитектура EuroLinux 7 подходит для решения задач самого разного масштаба &nbsp;&mdash; от рабочих десктопов, до серверов, ускорителей элементарных частиц и даже облаков. EL7 объединяет наиболее совершенные и интересные open source технологии для создания необходимых вам решений.</p> 
+-<ul>
+-	<h2>Что далее?</h2>
+-	<li>Для получения доступа к <strong>документации, замечаниям к выпуску и другой информации</strong> по линейке EuroLinux 7 обратитесь к <a href="http://www.euro-linux.com/" target="_blank">сайту EuroLinux</a>.</li>
+-	<li>Для <strong>получения поддержки от сообщества и извещений об обновлениях</strong> подпишитесь на <a href="http://www.euro-linux.com/community/" target="_blank">Списки рассылки</a></li>
+-</ul>
+-</div>
+-</body>
+-</html>
++	}
++  </style>
++ </head>
++ <body class="lang-ru" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      EuroLinux 7 — добро пожаловать!
++     </h1>
++     <p>
++      Надежная архитектура EuroLinux 7 подходит для решения задач самого разного масштаба  — от рабочих десктопов, до серверов, ускорителей элементарных частиц и даже облаков. EL7 объединяет наиболее совершенные и интересные open source технологии для создания необходимых вам решений.
++     </p>
++     <ul>
++      <h2>
++       Что далее?
++      </h2>
++      <li>
++       Для получения доступа к
++       <strong>
++        документации, замечаниям к выпуску и другой информации
++       </strong>
++       по линейке EuroLinux 7 обратитесь к
++       <a href="http://www.euro-linux.com/" target="_blank">
++        сайту EuroLinux
++       </a>
++       .
++      </li>
++     </ul>
++    </div>
++   </a>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/si-LK/index.html b/src/HTML/si-LK/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/si-LK/index.html
++++ b/src/HTML/si-LK/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/sv-SE/index.html b/src/HTML/sv-SE/index.html
+index cf4cfd3..1af7754 100644
+--- a/src/HTML/sv-SE/index.html
++++ b/src/HTML/sv-SE/index.html
+@@ -1,9 +1,12 @@
+ <!DOCTYPE html>
+-<html><head>
+-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Välkommen till EuroLinux 7!</title>
+-	<style type="text/css">
+-	body {
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Välkommen till EuroLinux 7!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,22 +61,39 @@
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+ 	}
+-	</style>
+-</head>
+-<body id="el-intro" class="lang-sv"> 
+-<div align="center"><a href="http://www.euro-linux.com/"><img src="../EL_Banner.png">
+-<div id="main">
+-<h1>Välkommen till EuroLinux 7</h1>
+-<p>EuroLinux 7 bygger på en robust arkitektur, skalbar till 
++  </style>
++ </head>
++ <body class="lang-sv" id="el-intro">
++  <div align="center">
++   <a href="http://www.euro-linux.com/">
++    <img src="../EL_Banner.png"/>
++    <div id="main">
++     <h1>
++      Välkommen till EuroLinux 7
++     </h1>
++     <p>
++      EuroLinux 7 bygger på en robust arkitektur, skalbar till 
+ nästan vilken roll som helst, var som helst. Från arbetsstation, server,
+  partikelaccelerator eller t.o.m. molnet. EL7 ger dig de bästa och 
+ starkaste open source teknologierna för att producera en plattform byggd
+- för dina behov.</p>
+-	<h2>Vad händer nu?</h2>
+-	<li>För tillgång till <strong>dokumentation, release notes, och annan information</strong> för EuroLinux 7 serien, besök <a href="http://www.euro-linux.com/">EuroLinux hemsida</a>.</li>
+-	<li>För <strong>community-tillhandahållen support och säkerhetsinformation</strong>, anmäl dig till våra <a href="http://www.euro-linux.com/community/">Epostlistor</a></li>
+-
+-</div>
+-
+-
+-</body></html>
++ för dina behov.
++     </p>
++     <h2>
++      Vad händer nu?
++     </h2>
++     <li>
++      För tillgång till
++      <strong>
++       dokumentation, release notes, och annan information
++      </strong>
++      för EuroLinux 7 serien, besök
++      <a href="http://www.euro-linux.com/">
++       EuroLinux hemsida
++      </a>
++      .
++     </li>
++    </div>
++   </a>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/ta-IN/index.html b/src/HTML/ta-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/ta-IN/index.html
++++ b/src/HTML/ta-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/te-IN/index.html b/src/HTML/te-IN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/te-IN/index.html
++++ b/src/HTML/te-IN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/zh-CN/index.html b/src/HTML/zh-CN/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/zh-CN/index.html
++++ b/src/HTML/zh-CN/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
+diff --git a/src/HTML/zh-TW/index.html b/src/HTML/zh-TW/index.html
+index 7bc95b7..4a2aaff 100644
+--- a/src/HTML/zh-TW/index.html
++++ b/src/HTML/zh-TW/index.html
+@@ -1,13 +1,13 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+-
+ <html xmlns="http://www.w3.org/1999/xhtml">
+-<head>
+-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+-
+-  <title>Welcome to EuroLinux 7</title>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 7
++  </title>
+   <style type="text/css">
+-/*<![CDATA[*/
++   /*<![CDATA[*/
+         body {
+         font-size: 16px;
+         line-height: 1.5em;
+@@ -65,27 +65,32 @@
+         }
+   /*]]>*/
+   </style>
+-</head>
+-<body id="el-intro">
++ </head>
++ <body id="el-intro">
+   <div align="center">
+-    <a href="http://www.euro-linux.com/"><img src="../EL_Banner.png" alt="EuroLinux" /></a>
++   <a href="http://www.euro-linux.com/">
++    <img alt="EuroLinux" src="../EL_Banner.png"/>
++   </a>
+   </div>
+-
+   <div id="main">
+-    <h1>Welcome to EuroLinux 7</h1>
+-
+-    <ul>
+-
+-      <li>To access <strong>documentation, release notes, and other
+-      information</strong> for the EuroLinux 7 series, visit
++   <h1>
++    Welcome to EuroLinux 7
++   </h1>
++   <ul>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other
++      information
++     </strong>
++     for the EuroLinux 7 series, visit
+       the
+-      <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-
+-      <li>For <strong>community-provided support and security
+-      errata announcements</strong>, subscribe to our
+-      <a href="http://www.euro-linux.com/community/" target="_blank">Mailing Lists</a></li>
+-    </ul>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
+   </div>
+-
+-</body>
++ </body>
+ </html>
