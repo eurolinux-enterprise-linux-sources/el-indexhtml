@@ -1,0 +1,13 @@
+diff --git a/src/HTML/ru-RU/index.html b/src/HTML/ru-RU/index.html
+index d727de1..eec92e1 100644
+--- a/src/HTML/ru-RU/index.html
++++ b/src/HTML/ru-RU/index.html
+@@ -80,7 +80,7 @@
+       документации, замечаниям к выпуску и другой информации
+      </strong>
+      по линейке EuroLinux 6 обратитесь к
+-     <a href="http://www.scientificlinux.ru/" target="_blank">
++     <a href="http://www.euro-linux.com/" target="_blank">
+       сайту EuroLinux
+      </a>
+      .

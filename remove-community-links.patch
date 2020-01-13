@@ -1,0 +1,1272 @@
+diff --git a/src/HTML/as-IN/index.html b/src/HTML/as-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/as-IN/index.html
++++ b/src/HTML/as-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/bn-IN/index.html b/src/HTML/bn-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/bn-IN/index.html
++++ b/src/HTML/bn-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/de-DE/index.html b/src/HTML/de-DE/index.html
+index 8fef3b3..6c73ed3 100644
+--- a/src/HTML/de-DE/index.html
++++ b/src/HTML/de-DE/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Willkommen zu EuroLinux 6</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Willkommen zu EuroLinux 6
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,18 +59,32 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-<h1>Willkommen zu EuroLinux 6</h1>
+-<p>EuroLinux 6 ist ein stabiles Betriebssystem und kann in praktisch allen Anwendungsbereichen eingesetzt werden. Als Desktop, Server, Teilchenbeschleuniger oder Cloud. EL6 vereinigt die besten und innovativsten Open-Source-Technologien zu einem System, dass genau auf Deine Bed&uuml;rfnisse zugeschnitten ist.</p> 
+-<ul>
+-	<h2>Was jetzt?</h2>
+-	<li><strong>Dokumentation, Release-Notes und weitere Informationen</strong> &uuml;ber EuroLinux 6 findest Du auf der <a href="http://www.euro-linux.com/" target="_blank">EuroLinux Web-Site</a>.</li>
+-	<li><strong>Community-Support und Security-Updates (Eratta) </strong>findest Du auf der <a href="http://www.euro-linux.com/maillists/" target="_blank">Mailing-Liste</a> (Posten erfordert eine Subscription).</li>
+-</ul>
+-</div>
+-</body>
+-</html>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++   <h1>
++    Willkommen zu EuroLinux 6
++   </h1>
++   <p>
++    EuroLinux 6 ist ein stabiles Betriebssystem und kann in praktisch allen Anwendungsbereichen eingesetzt werden. Als Desktop, Server, Teilchenbeschleuniger oder Cloud. EL6 vereinigt die besten und innovativsten Open-Source-Technologien zu einem System, dass genau auf Deine Bedürfnisse zugeschnitten ist.
++   </p>
++   <ul>
++    <h2>
++     Was jetzt?
++    </h2>
++    <li>
++     <strong>
++      Dokumentation, Release-Notes und weitere Informationen
++     </strong>
++     über EuroLinux 6 findest Du auf der
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux Web-Site
++     </a>
++     .
++    </li>
++   </ul>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/en-US/index.html b/src/HTML/en-US/index.html
+index 1a6c555..92c40fc 100644
+--- a/src/HTML/en-US/index.html
++++ b/src/HTML/en-US/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Welcome to EuroLinux 6</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Welcome to EuroLinux 6
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,18 +59,33 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-<h1>Welcome to EuroLinux 6</h1>
+-<p>EuroLinux 6 has a robust architecture that can scale to suit almost any role, anywhere. From a desktop workstation, to a server, a particle accelerator, or even the cloud, EL6 brings together the best and brightest open source technologies to produce a platform built for your needs.</p> 
+-<ul>
+-	<h2>Now what?</h2>
+-	<li>To access <strong>documentation, release notes, and other information</strong> for the EuroLinux 6 series, visit the <a href="http://www.euro-linux.com/" target="_blank">EuroLinux web site</a>.</li>
+-	<li>For <strong>community-provided support and security errata announcements</strong>, subscribe to our <a href="http://www.euro-linux.com/maillists/" target="_blank">Mailing Lists</a></li>
+-</ul>
+-</div>
+-</body>
+-</html>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++   <h1>
++    Welcome to EuroLinux 6
++   </h1>
++   <p>
++    EuroLinux 6 has a robust architecture that can scale to suit almost any role, anywhere. From a desktop workstation, to a server, a particle accelerator, or even the cloud, EL6 brings together the best and brightest open source technologies to produce a platform built for your needs.
++   </p>
++   <ul>
++    <h2>
++     Now what?
++    </h2>
++    <li>
++     To access
++     <strong>
++      documentation, release notes, and other information
++     </strong>
++     for the EuroLinux 6 series, visit the
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux web site
++     </a>
++     .
++    </li>
++   </ul>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/es-ES/index.html b/src/HTML/es-ES/index.html
+index db6ec02..71248a2 100644
+--- a/src/HTML/es-ES/index.html
++++ b/src/HTML/es-ES/index.html
+@@ -1,10 +1,12 @@
+ <!DOCTYPE HTML>
+ <html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Bienvenido a EuroLinux 6</title>
+-	<style type="text/css">
+-	body {
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Bienvenido a EuroLinux 6
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -58,17 +60,28 @@
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+ 	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-es"> 
+-<div id="main">
+-<h1>Bienvenido a EuroLinux 6</h1>
+-<p>EuroLinux 6 tiene una arquitectura robusta que puede escalar a satisfacer casi cualquier función, en cualquier lugar. Desde una estación de trabajo, un servidor, un acelerador de partículas, o hasta la nube, EL6 une la mejor y más brillante tecnología de código abierto para producir una plataforma creada para tus necesidades.</p> 
+-<ul>
+-	<h2>¿Ahora qué?</h2>
+-	<li>Para acceder documentación, notas de la liberación, y otra información para la serie 6 de EuroLinux, visita la <a href="http://www.euro-linux.com/" target="_blank">página web de EuroLinux</a>.</li>
+-	<li>Para <strong>soporte proveído por la comunidad y anuncios de seguridad</strong>, subscríbete a nuestras <a href="http://www.euro-linux.com/maillists/" target="_blank">Listas de Correo.</a></li>
+-</ul>
+-</div>
+-</body>
++  </style>
++ </head>
++ <body class="lang-es" id="sl-intro">
++  <div id="main">
++   <h1>
++    Bienvenido a EuroLinux 6
++   </h1>
++   <p>
++    EuroLinux 6 tiene una arquitectura robusta que puede escalar a satisfacer casi cualquier función, en cualquier lugar. Desde una estación de trabajo, un servidor, un acelerador de partículas, o hasta la nube, EL6 une la mejor y más brillante tecnología de código abierto para producir una plataforma creada para tus necesidades.
++   </p>
++   <ul>
++    <h2>
++     ¿Ahora qué?
++    </h2>
++    <li>
++     Para acceder documentación, notas de la liberación, y otra información para la serie 6 de EuroLinux, visita la
++     <a href="http://www.euro-linux.com/" target="_blank">
++      página web de EuroLinux
++     </a>
++     .
++    </li>
++   </ul>
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/fr-FR/index.html b/src/HTML/fr-FR/index.html
+index f30db8f..e65fc36 100644
+--- a/src/HTML/fr-FR/index.html
++++ b/src/HTML/fr-FR/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Bienvenue dans EuroLinux 6</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Bienvenue dans EuroLinux 6
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,29 +59,36 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-<h1>Bienvenue dans EuroLinux 6</h1>
+-<p>EuroLinux 6 a une architecture robuste qui peut évoluer pour
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++   <h1>
++    Bienvenue dans EuroLinux 6
++   </h1>
++   <p>
++    EuroLinux 6 a une architecture robuste qui peut évoluer pour
+ répondre à n'importe quel rôle, n'importe où. D'un poste de bureau à
+ un serveur, un accélérateur de particules, ou même dans le cloud, EL6
+ réunit les meilleurs et les plus brillantes des technologies
+ "opensource" pour produire une plate-forme construite pour vos
+-besoins.
+-</p> 
+-<ul>
+-	<h2>Et maintenant ?</h2>
+-	<li>Pour accéder à la documentation, les notes spécifiques et d'autres 
+-	informations concernant <a href="http://www.euro-linux.com/" target="_blank">EuroLinux 6, 
+-	visitez le site web</a>.</li>
+-	<li>EuroLinux. Pour le soutien du part de la communauté et 
+-	les annonces des corrections et de sécurité, 
+-	<a href="http://www.euro-linux.com/maillists/" target="_blank">abonnez-vous
+-	à nos listes de diffusion.</a></li>
+-</ul>
+-</div>
+-</body>
+-</html>
++besoins.
++   </p>
++   <ul>
++    <h2>
++     Et maintenant ?
++    </h2>
++    <li>
++     Pour accéder à la documentation, les notes spécifiques et d'autres 
++	informations concernant
++     <a href="http://www.euro-linux.com/" target="_blank">
++      EuroLinux 6, 
++	visitez le site web
++     </a>
++     .
++    </li>
++   </ul>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/gu-IN/index.html b/src/HTML/gu-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/gu-IN/index.html
++++ b/src/HTML/gu-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/hi-IN/index.html b/src/HTML/hi-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/hi-IN/index.html
++++ b/src/HTML/hi-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/hu-HU/index.html b/src/HTML/hu-HU/index.html
+index 30654e5..6110662 100644
+--- a/src/HTML/hu-HU/index.html
++++ b/src/HTML/hu-HU/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Üdvözli a EuroLinux 6</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Üdvözli a EuroLinux 6
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,21 +59,36 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-hu">
+-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
++	}
++  </style>
++ </head>
++ <body class="lang-hu" id="sl-intro">
++  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" width="800" height="74"></a></div>
+-<div id="main">
+-<h1>Üdvözli a EuroLinux 6</h1>
+-<p>A EuroLinux 6 megbízható architektúrával rendelkezik és jól skálázódik, hogy bárhol, bármilyen szerepnek megfelelhessen. Az EL6 a legjobb nyílt forrású technológiákat egyesíti, hogy az igényei szerinti platformot hozhassa létre az asztali munkaállomástól a kiszolgálón át a részecskegyorsítóig, vagy akár a felhőig.</p>
+-<ul>
+-	<h2>Hogyan tovább?</h2>
+-	<li>A EuroLinux 6 <strong>dokumentációjához, kiadási megjegyzéseihez és egyéb információkhoz</strong> látogassa meg a <a href="http://www.euro-linux.com/" target="_blank">EuroLinux weboldalát</a>.</li>
+-	<li><strong>Közösségi támogatáshoz és biztonsági bejelentésekhez</strong> iratkozzon fel <a href="http://www.euro-linux.com/maillists/" target="_blank">levelezőlistáinkra</a>.</li>
+-</ul>
+-</div>
+-</body>
+-</html>
++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" width="800" height="74"&gt;
++ </body>
++</html>
++<div id="main">
++ <h1>
++  Üdvözli a EuroLinux 6
++ </h1>
++ <p>
++  A EuroLinux 6 megbízható architektúrával rendelkezik és jól skálázódik, hogy bárhol, bármilyen szerepnek megfelelhessen. Az EL6 a legjobb nyílt forrású technológiákat egyesíti, hogy az igényei szerinti platformot hozhassa létre az asztali munkaállomástól a kiszolgálón át a részecskegyorsítóig, vagy akár a felhőig.
++ </p>
++ <ul>
++  <h2>
++   Hogyan tovább?
++  </h2>
++  <li>
++   A EuroLinux 6
++   <strong>
++    dokumentációjához, kiadási megjegyzéseihez és egyéb információkhoz
++   </strong>
++   látogassa meg a
++   <a href="http://www.euro-linux.com/" target="_blank">
++    EuroLinux weboldalát
++   </a>
++   .
++  </li>
++ </ul>
++</div>
+diff --git a/src/HTML/index.html b/src/HTML/index.html
+index 7b57ab0..9c0c2a9 100644
+--- a/src/HTML/index.html
++++ b/src/HTML/index.html
+@@ -1,9 +1,11 @@
+ <html>
+-<head>
+-<title>EuroLinux</title>
+-<body>
+-<script type="text/javascript">
+-	var lang = window.navigator.language;
++ <head>
++  <title>
++   EuroLinux
++  </title>
++  <body>
++   <script type="text/javascript">
++    var lang = window.navigator.language;
+ 	var match = 0;
+ 	var locales = ["as-IN", "bn-IN", "de-DE", "es-ES", "fr-FR", "gu-IN", "hi-IN", "hu-HU", "it-IT", "ja-JP", "ko-KR", "ml-IN", "mr-IN", "or-IN", "pa-IN", "pt-BR", "ru-RU", "si-LK", "sv-SE", "ta-IN", "te-IN", "zh-CN", "zh-TW"];
+ 
+@@ -41,6 +43,7 @@
+ 	}
+ 
+ 	window.location = lang + "/index.html";
+-</script>
+-</body>
++   </script>
++  </body>
++ </head>
+ </html>
+diff --git a/src/HTML/it-IT/index.html b/src/HTML/it-IT/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/it-IT/index.html
++++ b/src/HTML/it-IT/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/ja-JP/index.html b/src/HTML/ja-JP/index.html
+index 15c005f..18ac946 100644
+--- a/src/HTML/ja-JP/index.html
++++ b/src/HTML/ja-JP/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>EuroLinux 6 へようこそ </title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   EuroLinux 6 へようこそ
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,22 +59,43 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-<h1>EuroLinux 6 へようこそ</h1>
+-<p>EuroLinux 6 は、堅固なアーキテクチャを備えており、あらゆる分野で、<WBR>ほとんど全ての用途に適合させることができます。
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++   <h1>
++    EuroLinux 6 へようこそ
++   </h1>
++   <p>
++    EuroLinux 6 は、堅固なアーキテクチャを備えており、あらゆる分野で、
++    <wbr/>
++    ほとんど全ての用途に適合させることができます。
+ EL6
+-は、あなたのニーズ（<WBR>デスクトップワークステーションからサーバ、粒子加速器、<WBR>さらにはクラウドまで）<WBR>に合ったプラットフォームを提供するため、最高・<WBR>最良のオープンソーステクノロジーを集めています。 </p> 
+-<ul>
+-	<h2>次は？</h2>
+-	<li><a href="http://www.euro-linux.com/" target="_blank">Scientic Linux の webサイト</a> を訪問すれば、EuroLinux 6 
+-	シリーズのためのドキュメントやリリースノート、<WBR>その他の情報にアクセスすることができます。 
+-	</li>
+-	<li>また、わたしたちの<a href="http://www.euro-linux.com/maillists/" target="_blank">メーリングリスト</a> に登録すれば、<WBR>コミュニティ提供のサポートやセキュリティ上の修正のアナウンス<WBR>を得ることができます。 </li>
+-</ul>
+-</div>
+-</body>
+-</html>
++は、あなたのニーズ（
++    <wbr/>
++    デスクトップワークステーションからサーバ、粒子加速器、
++    <wbr/>
++    さらにはクラウドまで）
++    <wbr/>
++    に合ったプラットフォームを提供するため、最高・
++    <wbr/>
++    最良のオープンソーステクノロジーを集めています。
++   </p>
++   <ul>
++    <h2>
++     次は？
++    </h2>
++    <li>
++     <a href="http://www.euro-linux.com/" target="_blank">
++      Scientic Linux の webサイト
++     </a>
++     を訪問すれば、EuroLinux 6 
++	シリーズのためのドキュメントやリリースノート、
++     <wbr/>
++     その他の情報にアクセスすることができます。
++    </li>
++   </ul>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/ko-KR/index.html b/src/HTML/ko-KR/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/ko-KR/index.html
++++ b/src/HTML/ko-KR/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/ml-IN/index.html b/src/HTML/ml-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/ml-IN/index.html
++++ b/src/HTML/ml-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/mr-IN/index.html b/src/HTML/mr-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/mr-IN/index.html
++++ b/src/HTML/mr-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/or-IN/index.html b/src/HTML/or-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/or-IN/index.html
++++ b/src/HTML/or-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/pa-IN/index.html b/src/HTML/pa-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/pa-IN/index.html
++++ b/src/HTML/pa-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/pt-BR/index.html b/src/HTML/pt-BR/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/pt-BR/index.html
++++ b/src/HTML/pt-BR/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/ru-RU/index.html b/src/HTML/ru-RU/index.html
+index 7ca1c72..d727de1 100644
+--- a/src/HTML/ru-RU/index.html
++++ b/src/HTML/ru-RU/index.html
+@@ -1,10 +1,12 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<meta  http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>EuroLinux 6 -- добро пожаловать!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   EuroLinux 6 -- добро пожаловать!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,18 +59,33 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-ru"> 
+-<div id="main">
+-<h1>EuroLinux 6&nbsp;&mdash; добро пожаловать!</h1>
+-<p>Надежная архитектура EuroLinux 6 подходит для решения задач самого разного масштаба &nbsp;&mdash; от рабочих десктопов, до серверов, ускорителей элементарных частиц и даже облаков. EL6 объединяет наиболее совершенные и интересные open source технологии для создания необходимых вам решений.</p> 
+-<ul>
+-	<h2>Что далее?</h2>
+-	<li>Для получения доступа к <strong>документации, замечаниям к выпуску и другой информации</strong> по линейке EuroLinux 6 обратитесь к <a href="http://www.scientificlinux.ru/" target="_blank">сайту EuroLinux</a>.</li>
+-	<li>Для <strong>получения поддержки от сообщества и извещений об обновлениях</strong> подпишитесь на <a href="http://www.scientificlinux.ru/maillists/" target="_blank">Списки рассылки</a></li>
+-</ul>
+-</div>
+-</body>
+-</html>
++	}
++  </style>
++ </head>
++ <body class="lang-ru" id="sl-intro">
++  <div id="main">
++   <h1>
++    EuroLinux 6 — добро пожаловать!
++   </h1>
++   <p>
++    Надежная архитектура EuroLinux 6 подходит для решения задач самого разного масштаба  — от рабочих десктопов, до серверов, ускорителей элементарных частиц и даже облаков. EL6 объединяет наиболее совершенные и интересные open source технологии для создания необходимых вам решений.
++   </p>
++   <ul>
++    <h2>
++     Что далее?
++    </h2>
++    <li>
++     Для получения доступа к
++     <strong>
++      документации, замечаниям к выпуску и другой информации
++     </strong>
++     по линейке EuroLinux 6 обратитесь к
++     <a href="http://www.scientificlinux.ru/" target="_blank">
++      сайту EuroLinux
++     </a>
++     .
++    </li>
++   </ul>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/si-LK/index.html b/src/HTML/si-LK/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/si-LK/index.html
++++ b/src/HTML/si-LK/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/sv-SE/index.html b/src/HTML/sv-SE/index.html
+index ac75e42..30fa90a 100644
+--- a/src/HTML/sv-SE/index.html
++++ b/src/HTML/sv-SE/index.html
+@@ -1,9 +1,12 @@
+ <!DOCTYPE html>
+-<html><head>
+-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+-	<title>Välkommen till EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<html>
++ <head>
++  <meta content="text/html; charset=utf8" http-equiv="Content-Type"/>
++  <title>
++   Välkommen till EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -57,21 +60,34 @@
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+ 	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-sv"> 
+-<div id="main">
+-<h1>Välkommen till EuroLinux 6</h1>
+-<p>EuroLinux 6 bygger på en robust arkitektur, skalbar till 
++  </style>
++ </head>
++ <body class="lang-sv" id="sl-intro">
++  <div id="main">
++   <h1>
++    Välkommen till EuroLinux 6
++   </h1>
++   <p>
++    EuroLinux 6 bygger på en robust arkitektur, skalbar till 
+ nästan vilken roll som helst, var som helst. Från arbetsstation, server,
+  partikelaccelerator eller t.o.m. molnet. EL6 ger dig de bästa och 
+ starkaste open source teknologierna för att producera en plattform byggd
+- för dina behov.</p>
+-	<h2>Vad händer nu?</h2>
+-	<li>För tillgång till <strong>dokumentation, release notes, och annan information</strong> för EuroLinux 6 serien, besök <a href="http://www.euro-linux.com/">EuroLinux hemsida</a>.</li>
+-	<li>För <strong>community-tillhandahållen support och säkerhetsinformation</strong>, anmäl dig till våra <a href="http://www.euro-linux.com/maillists/">Epostlistor</a></li>
+-
+-</div>
+-
+-
+-</body></html>
++ för dina behov.
++   </p>
++   <h2>
++    Vad händer nu?
++   </h2>
++   <li>
++    För tillgång till
++    <strong>
++     dokumentation, release notes, och annan information
++    </strong>
++    för EuroLinux 6 serien, besök
++    <a href="http://www.euro-linux.com/">
++     EuroLinux hemsida
++    </a>
++    .
++   </li>
++  </div>
++ </body>
++</html>
+diff --git a/src/HTML/ta-IN/index.html b/src/HTML/ta-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/ta-IN/index.html
++++ b/src/HTML/ta-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/te-IN/index.html b/src/HTML/te-IN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/te-IN/index.html
++++ b/src/HTML/te-IN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/zh-CN/index.html b/src/HTML/zh-CN/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/zh-CN/index.html
++++ b/src/HTML/zh-CN/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
+diff --git a/src/HTML/zh-TW/index.html b/src/HTML/zh-TW/index.html
+index a9d8d7b..42380f4 100644
+--- a/src/HTML/zh-TW/index.html
++++ b/src/HTML/zh-TW/index.html
+@@ -1,9 +1,11 @@
+-<!DOCTYPE HTML>
+-<html>
+-<head>
+-	<title>Welcome to EuroLinux 6!</title>
+-	<style type="text/css">
+-	body {
++<!DOCTYPE HTML>
++<html>
++ <head>
++  <title>
++   Welcome to EuroLinux 6!
++  </title>
++  <style type="text/css">
++   body {
+ 	font-size: 16px;
+ 	line-height: 1.5em;
+ 	font-family: 'Cantarell', 'DevaVu Sans', sans-serif;
+@@ -53,10 +55,11 @@
+ 	#main li {
+ 	list-style-type: none;
+ 	margin-bottom: 10px;
+-	}
+-	</style>
+-</head>
+-<body id="sl-intro" class="lang-en"> 
+-<div id="main">
+-</body>
++	}
++  </style>
++ </head>
++ <body class="lang-en" id="sl-intro">
++  <div id="main">
++  </div>
++ </body>
+ </html>
